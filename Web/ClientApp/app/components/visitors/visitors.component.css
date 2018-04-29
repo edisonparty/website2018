@@ -32,3 +32,13 @@
         display: none;
     }
 }
+
+a {
+    color: #FA0;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #FFF;
+    text-decoration: underline;
+}
